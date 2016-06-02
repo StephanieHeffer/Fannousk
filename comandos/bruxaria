@@ -1,0 +1,228 @@
+sudo apt-get update
+sudo apt-get install git
+git
+sudo apt-get 
+git
+cwd
+pwd
+cd /
+pwd
+ls
+pwd
+cd /
+pwd
+cd ~
+pud
+pwd
+cd /
+pwd
+ls
+cd ~
+pwd
+ls
+cd /
+ls
+ls l
+ls -l
+cd home
+ls
+cd rfc
+ls
+pwd
+cd etc
+cd /
+ls
+etc
+cd etc
+ls
+cd magic
+cd gimp
+ls
+pwd
+cd 2.0
+ls
+cd /
+cd etc
+ls
+cd gitconfig
+cd ~
+pwd
+git config --system user.name "teste"
+sudo git config --system use.name "teste"
+cd /
+cd etc
+ls
+vim
+sudo apt-get install vim
+vim
+ls
+vim gitconfig
+rm gitconfig
+sudo rm gitconfig
+ls
+cd ~
+ls
+ls -l
+ls -a
+ls -al
+cd .config
+ls
+ls -a
+git config --global user.name "StephanieHeffer"
+ls
+ls -a
+cd ~
+ls
+ls -al
+.gitconfig
+cd .gitconfig
+vim gitconfig
+ls
+ls -al
+rm gitconfig
+ls
+vim .gitconfig
+git config --global user.email stephanie.heffer@gmail.com
+vim .gitconfig
+ls
+cd Desktop
+ls
+vim fake
+ls
+mousepad
+mousepad fake
+rm fake
+pwd
+ls -a
+cd ~
+ls -al
+mousepad .gitconfig
+firefox
+firefox .gitconfig
+firefox www.google.com
+pwd
+mkdir github_fannynha
+ls
+cd github_fannynha/
+ls
+git clone 
+git clone https://github.com/StephanieHeffer/Fannousk.git
+ls
+cd ~
+git clone https://github.com/StephanieHeffer/Fannousk.git
+ls
+rm Fannousk
+rm -r
+rm -r Fannousk
+ls
+rm -r Fannousk
+s
+ls
+cd github_fannynha
+ls
+cd Fannousk
+ls
+vim menu.c
+gcc
+gcc menu.c
+ls
+echo
+echo blbalhvs 123
+vim a.out
+pwd
+ls
+a.out
+/home/rfc/github_fannynha/Fannousk/a.out
+ls
+ls -al
+cd .git
+ls
+ls -l
+cd branches
+ls
+ls -l
+ls -a
+ls -al
+pwd
+ls -alo
+cd .
+pwd
+cd .
+pwd
+cd ..
+pwd
+ls -la
+cd .
+pwd
+cd ..
+pwd
+ls
+ls -al
+cd .
+./a.out
+../a.out
+ls
+cp a.out
+cp a.out ~/github_fannynha/
+ls
+cd github_fannynha
+ls
+pwd
+cd ..
+ls
+cd Fannousk
+../a.out
+ls
+git status
+rm a.out
+ls
+git status
+vim menu.c
+gcc
+gcc menu.c
+ls
+./a.out
+vim menu.c
+./a.out
+gcc menu.c
+ls
+./a.out
+ls
+vim README.md
+ls
+git status
+rm a.out
+git status
+git commit -a -m"eita"
+git status
+git push
+git status
+./a.out
+cd ~
+ls
+ls -a
+vim .bash_history
+~
+cd ~
+ls
+ls -a
+vim .bash_history
+cp .bash_history ~/github_fannynha/Fannousk
+ls
+cd github_fannynha
+ls
+cd Fannousk
+ls
+ls -a
+la
+ll
+mv .bash_history comandosdebruxaria
+ls
+mkdir comandos
+mv comandosdebruxaria comandos/
+ls
+cd comandos
+ls
+mousepad comandosdebruxaria
+rm comandosdebruxaria
+exit
