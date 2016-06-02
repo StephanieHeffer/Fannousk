@@ -24,15 +24,15 @@ int main()
     totalzao=0;
 
     do{
-    printf("\tMenu\n");
-    printf("Código 1: Cachorro Quente - R$1,50");
-    printf("\nCódigo 2: Hamburguer - R$2,00");
-    printf("\nCódigo 3: Cheeseburguer - R$2,50");
-    printf("\nCódigo 4: Eggcheeseburguer - R$3,00");
-    printf("\nCódigo 5: Refrigerante - R$1,50");
-    printf("\nCódigo 0: Fechar o pedido");
-    printf("\nPedido: ");
-    scanf("%d", &op);
+     printf("\tMenu\n");
+     printf("Código 1: Cachorro Quente - R$1,50");
+     printf("\nCódigo 2: Hamburguer - R$2,00");
+     printf("\nCódigo 3: Cheeseburguer - R$2,50");
+     printf("\nCódigo 4: Eggcheeseburguer - R$3,00");
+     printf("\nCódigo 5: Refrigerante - R$1,50");
+     printf("\nCódigo 0: Fechar o pedido");
+     printf("\nPedido: ");
+     scanf("%d", &op);
 
      if (op==0){
         printf("\tCalculando o Total");
@@ -75,5 +75,6 @@ int main()
         }
     totalzao= (thot + tham + tcheese + tegg + trefri);
     printf("\nTotal a pagar: R$%.2f", totalzao);
+    printf("\nAcabou!!Felicidades!! Volte Sempre!! =D\n");
 return(0);
 }

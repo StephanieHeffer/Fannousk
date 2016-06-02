@@ -8,3 +8,7 @@ você pode formatar o seu texto para ficar bonitinho tipo com **negrito** e *it�
 você pode explicar por exemplo que esse repositório terá uma pasta para cada exercício de C que você está fazendo, e que para rodar ele você precisa ter instalado no seu computador um compilador de C.
 
 depois atualize com informações de verdade
+
+Depois vou atualizar =D
+
+:hankey: :hankey: :hankey:
